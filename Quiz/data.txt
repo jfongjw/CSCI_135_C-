@@ -1,0 +1,3 @@
+redFF0000
+blue0000FF
+yellowFFFF00
